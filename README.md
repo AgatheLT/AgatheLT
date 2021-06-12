@@ -1,4 +1,6 @@
-###  Hi there, I am Agathe 💃
+###  
+<h1 class="text-center">Hi there, I am Agathe 💃</h1>
+
 
 🔭 I’m currently building a Ruby on Rails app for a French Startup
 <br>
