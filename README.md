@@ -1,4 +1,8 @@
-### Hi there 👋
+###  Hi there, I am Agathe 💃
+
+🔭 I’m currently building a Ruby on Rails app for a French Startup
+🌱 I’m learning and learning, currently more JS and really soon React
+
 
 <!--
 **AgatheLT/AgatheLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
