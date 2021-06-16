@@ -3,7 +3,7 @@
 
 🔭 I’m currently building a Ruby on Rails app for a French Startup
 <br>
-🌱 I’m learning and learning, currently more JS and really soon React
+🌱 I’m learning and learning, currently more JS and really soon React!
 
 
 <!--
